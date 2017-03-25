@@ -5,4 +5,5 @@
 ## Andamento do projeto
 
 * Separando arquivos de rotas
-* Criando conexão com o MySQL
+* Criando conexão com o MySQ
+* Listando not�cias do banco de dados
