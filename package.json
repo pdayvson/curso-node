@@ -1,0 +1,13 @@
+{
+  "name": "curso-node",
+  "version": "1.0.0",
+  "description": "Projeto do curso de Node.js",
+  "main": "app.js",
+  "author": "P. Dayvson <pdayvson@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^2.5.6",
+    "express": "^4.15.2",
+    "mysql": "^2.13.0"
+  }
+}
