@@ -6,4 +6,4 @@
 
 * Separando arquivos de rotas
 * Criando conexão com o MySQ
-* Listando not�cias do banco de dados
+* Listando notícias do banco de dados
